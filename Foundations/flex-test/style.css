@@ -1,0 +1,19 @@
+.main-flex{
+    display: flex; 
+    width: 500px;
+    height: 500px;
+    
+}
+
+.first-div{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+
+.second-div{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    flex: 1 30px;
+}

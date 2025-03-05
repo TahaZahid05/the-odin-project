@@ -1,16 +1,16 @@
 .box-1{
-    /* width: 500px;
-    height: 200px; */
-    /* background-color: red; */
+    width: 500px;
+    height: 200px; 
+    background-color: red;
     /* margin-bottom: 10px; */
     border: 10px solid black;
-    display: inline;
+    /* display: inline; */
 }
 
 .box-2{
-    /* width: 500px;
-    height: 200px; */
-    /* background-color: blue; */
+    width: 500px;
+    height: 200px;
+    background-color: blue;
     border: 15px solid orange;
-    display: inline;
+    /* display: inline; */
 }
